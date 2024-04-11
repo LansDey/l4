@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Аниме Fate/Apocrypha</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        .anime-image {
+            text-align: center;
+        }
+        .anime-image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        .character {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .character img {
+            width: 50px;
+            height: auto;
+            margin-right: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Аниме Fate/Apocrypha</h1>
+    <div class="anime-image">
+        <img src="https://m.media-amazon.com/images/M/MV5BNzRmZDNiN2UtZjI1YS00ZTg5LTgzNzAtMjdkYTRmYjM5OTlhXkEyXkFqcGdeQXVyNzU2MDkxMTM@._V1_.jpg"
+             alt="Fate/Apocrypha">
+    </div>
+    <h2>Описание</h2>
+    <p>"Fate/Apocrypha" - это серия японских лайт-новелл, адаптированная в аниме. Сюжет разворачивается в альтернативной вселенной, где Магическая Ассоциация Фейтриа борется с Светлыми и Тёмными Магами за Святой Грааль.</p>
+    <h2>Персонажи</h2>
+    <div class="character">
+        <img src="https://i.pinimg.com/736x/6c/05/73/6c057319ed4850bbb02f6854d0f537fa.jpg" alt="Сигурд">
+        <span>Сигурд</span>
+    </div>
+    <div class="character">
+        <img src="https://sun9-23.userapi.com/impg/KabA7K29K-nChCJa5H3MXYcPVOed8WLaXtrpeg/fi8e_CPB7ew.jpg?size=1003x1416&quality=96&sign=64d40b13d7da9b5d769e6d1041672b21&c_uniq_tag=nw-8que06LDjZMm2FEf1-Qom6w5MklpHBta_dURTvws&type=album" alt="Мордред">
+        <span>Мордред</span>
+    </div>
+    <div class="character">
+        <img src="https://pm1.aminoapps.com/7199/cdb31b25a853377a3e7c31a4ee94d68d8fc19a48r1-500-600v2_hq.jpg" alt="Амакуза">
+        <span>Амакуза</span>
+    </div>
+    <h2>Смотреть онлайн</h2>
+    <p>Вы можете посмотреть аниме "Fate/Apocrypha" на различных платформах для стриминга, таких как Crunchyroll, Netflix и др.</p>
+    <h2>Ресурсы</h2>
+    <ul>
+        <li><a href="https://ru.wikipedia.org/wiki/Fate/Apocrypha" target="_blank">Статья на Википедии</a></li>
+        <li><a href="https://www.netflix.com/ru/title/80180870" target="_blank">Netflix</a></li>
+    </ul>
+</div>
+</body>
+</html>
